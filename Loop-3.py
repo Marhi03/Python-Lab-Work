@@ -1,3 +1,5 @@
+#Write a program to count the number of alphabets and digits present in a given string.
+
 s = input('Enter a string: ')
 c=0
 d=0
