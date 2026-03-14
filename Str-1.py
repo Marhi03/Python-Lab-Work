@@ -1,3 +1,5 @@
+Write a program that accepts a string from the user and counts the number of vowels present in it.
+
 s = input('Enter a string: ')
 c=0
 C=0
