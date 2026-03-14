@@ -1,3 +1,6 @@
+#Take two lists of numbers as input. Create a third list containing only those numbers 
+#from the first list that are not present in the second list, using list comprehension.
+
 lst1=[]
 lst2=[]
 lst3=[]
