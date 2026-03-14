@@ -1,3 +1,6 @@
+#Write a program that accepts a string from the user and prints the following:
+#First character, Last character, Middle character (only if the string length is odd)
+
 s = input('Enter a string: ')
 n=len(s)
 m=n//2
