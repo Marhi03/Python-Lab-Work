@@ -1,3 +1,5 @@
+#Write a menu-driven program to implement a queue data structure.
+
 lst=[]
 print('1. Inserting an element')
 print('2. Deleting an element')
@@ -14,4 +16,3 @@ while 1:
               print(lst)
     elif c==4:
         break
-
