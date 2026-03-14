@@ -1,3 +1,5 @@
+#Generate 50 random numbers in the range of 1 to 30 and store them in a list. Remove all duplicate values from the list.
+
 import random
 lst1=[]
 a=0
