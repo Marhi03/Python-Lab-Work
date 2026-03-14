@@ -1,3 +1,5 @@
+#Write a menu-driven program to implement the stack data structure.
+
 lst=[]
 print('1. Insert an element')
 print('2. Delete an element')
