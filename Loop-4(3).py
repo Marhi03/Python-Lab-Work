@@ -1,3 +1,5 @@
+#Write a program to check whether a given number is: Palindrome
+
 n = int(input('Enter a number: '))
 og=n
 s=0
