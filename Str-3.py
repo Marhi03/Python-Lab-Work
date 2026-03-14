@@ -1,3 +1,5 @@
+#Write a Python program that accesses and prints each character of a string in both forward and reverse order using a while loop.
+
 s = input('Enter a string: ')
 print('Accessing using +ve index.')
 i=0
