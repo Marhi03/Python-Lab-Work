@@ -1,3 +1,5 @@
+#Write a program to calculate and print the values of nCr and nPr.
+
 n=int(input('Enter the value of n: '))
 r=int(input('Enter the value of r: '))
 
