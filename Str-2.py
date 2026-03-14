@@ -1,3 +1,6 @@
+Write your own functions (without using built-in string functions) to convert all characters of a string into:
+Lowercase, Uppercase, Toggle case (uppercase to lowercase and lowercase to uppercase)
+
 s = input('Enter a string: ')
 su=''
 for ch in s:
