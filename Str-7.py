@@ -1,3 +1,6 @@
+#Write a program that accepts a string and displays the following:
+#Total length of the string, Number of vowels, Number of consonants
+
 s = input('Enter a string: ')
 l = len(s)
 print('Length of', s, 'is:', l)
