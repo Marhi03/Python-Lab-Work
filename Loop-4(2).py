@@ -1,3 +1,5 @@
+Write a program to check whether a given number is: Armstrong
+
 n = int(input('Enter a number: '))
 d=0
 og=n
