@@ -1,3 +1,5 @@
+#Write a program to generate all Pythagorean triplets whose side lengths are less than or equal to 30.
+
 for a in range(1, 31):
     for b in range(a, 31):
         for c in range(b, 31):
