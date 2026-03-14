@@ -1,3 +1,5 @@
+#Write a program that accepts two strings and checks whether one string is present inside the other string.
+
 s1 = input('Enter a string: ')
 s2 = input('Enter another string: ')
 if(s1 in s2):
