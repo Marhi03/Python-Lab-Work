@@ -1,3 +1,6 @@
+#Generate 30 random numbers and store them in a list. 
+#Create two additional lists: one containing only positive numbers and another containing only negative numbers.
+
 import random
 lst=[]
 lstp=[]
