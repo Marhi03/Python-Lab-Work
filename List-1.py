@@ -1,3 +1,8 @@
+#Create a list containing 5 odd integers generated using random numbers. 
+#Similarly, create another list containing 4 even integers using random numbers. Replace the third element of the odd-integers 
+#list with the list of 4 even integers. Then flatten the list, sort it, and print the final list. Display appropriate messages 
+#at each stage.
+
 import random
 lst1 = []
 for i in range(0,5):
@@ -20,5 +25,3 @@ print('Flattened list is:', lst1)
 
 lst1.sort()
 print(lst1)
-
-
