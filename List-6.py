@@ -1,3 +1,5 @@
+#Write a program to convert a list of temperatures in Fahrenheit to their equivalent values in Celsius.
+
 lstf=[]
 n = int(input('Enter the no. of entries: '))
 for i in range(0,n):
