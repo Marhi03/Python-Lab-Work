@@ -1,3 +1,5 @@
+#Write a program to display the multiplication table of a given number.
+
 n = int(input('Enter a number: '))
 for i in range(n, (n+1)):
     for j in range(1, 11):
