@@ -1,3 +1,5 @@
+#List has names of girls and boys. Boys names are as tuples. Find out the no. of girls and boys.
+
 lst=['Riya', 'Neha', ('Om',), ('Arjun',), 'Sneha', ('Parth',), 'Vishva']
 g=0
 b=0
