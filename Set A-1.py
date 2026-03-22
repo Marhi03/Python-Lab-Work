@@ -1,3 +1,7 @@
+#Accept two sets from the user.
+#Write a program to check:
+#Whether the first set is a subset of the second. Whether the second set is a superset of the first. Whether both sets are equal.
+
 s1=set()
 s2=set()
 print('To stop entering data for 1st set enter #')
