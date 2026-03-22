@@ -1,3 +1,7 @@
+#A website records visitor IDs for two different days as sets.
+#Write a program to:
+#Find visitors who visited both days. Find visitors who visited only one of the days. Find total unique visitors across both days.
+
 s1=set()
 s2=set()
 print('To stop entering data for first day enter @')
