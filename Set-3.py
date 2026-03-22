@@ -1,3 +1,5 @@
+#Remove duplicates from a list using a set.
+
 lst=[]
 lstn=[]
 n=int(input('How many entries do you want to enter?: '))
