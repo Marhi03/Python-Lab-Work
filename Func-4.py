@@ -1,3 +1,6 @@
+#Write a program that defines a function sum_avg() to accept marks of five subjects and 
+#calculates total and average. It should return directly both values.
+
 def sum_avg(m1,m2,m3,m4,m5):
     s=m1+m2+m3+m4+m5
     avg=(m1+m2+m3+m4+m5)/5
